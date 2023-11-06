@@ -1,4 +1,4 @@
-package ru.sqta.geometry.tqtt;
+package ru.sqta.geometry.figures;
 
 public class Rectangle {
     public static void printRectangleAreaa(double a, double b) {

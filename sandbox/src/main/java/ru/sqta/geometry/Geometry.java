@@ -1,7 +1,7 @@
 package ru.sqta.geometry;
 
-import ru.sqta.geometry.tqtt.Rectangle;
-import ru.sqta.geometry.tqtt.Square;
+import ru.sqta.geometry.figures.Rectangle;
+import ru.sqta.geometry.figures.Square;
 
 public class Geometry {
     public static void main(String[] args) {
