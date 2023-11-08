@@ -1,8 +1,10 @@
-public class Triangle {
+public class Triangle6666262 {
     public static void main(String[] args) {
         PrintperimeterTriangle(2,4,7);
-        PrintperimeterTriangle(3,4,7);
-        PrintperimeterTriangle(2,5,7);
+        
+       var p = perimetrTriangle(2,4,7)/2;
+        System.out.println(p);
+
         ;
     }
 
